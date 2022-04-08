@@ -2,6 +2,8 @@ DIWA
 ====
 This is just a short description. For full Documentation see [docs](docs) Directory.
 
+Original Source: https://github.com/snsttr/diwa
+
 ## Requirements
 * PHP 5.6 or higher (PHP 7 is recommended) with at least one of the following PDO-Drivers: pdo_sqlite or pdo_mysql
 * A web browser (Firefox or Chrome are recommended)
